@@ -22,3 +22,7 @@ public class BasicGui {
     }
 }
 ```
+
+- [ ] Displays greeting
+- [ ] Cab enter name
+- [ ] Can enter age
